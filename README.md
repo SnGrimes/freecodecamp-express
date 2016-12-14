@@ -3,7 +3,7 @@ This project is in preperation to move freecodecampdallas.com to a server that f
 
 ## Installation
 ~~~~
-git clone https://github.com/joshuacode16/freecodecampdallas-express.git
+git clone https://github.com/freecodecampdallas/freecodecamp-express.git
 cd freecodecampdallas-express
 npm install
 npm start
